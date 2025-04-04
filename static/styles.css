@@ -1,0 +1,109 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    color: white;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 450px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 30px;
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 14px;
+    opacity: 0.8;
+}
+
+/* Input Field */
+input {
+    width: 100%;
+    padding: 12px;
+    margin: 15px 0;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    text-align: center;
+    outline: none;
+}
+
+/* Download Button */
+button {
+    width: 100%;
+    padding: 12px;
+    background: linear-gradient(45deg, #ff416c, #ff4b2b);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+button:hover {
+    background: linear-gradient(45deg, #ff4b2b, #ff416c);
+}
+
+/* Status Text */
+#status {
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+/* Footer */
+footer {
+    margin-top: 20px;
+    font-size: 12px;
+    opacity: 0.8;
+}
+
+/* Download Button (a tag) */
+.download-btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 20px;
+    background: linear-gradient(45deg, #ff416c, #ff4b2b);
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: 0.3s ease-in-out;
+}
+
+.download-btn:hover {
+    background: linear-gradient(45deg, #ff4b2b, #ff416c);
+    transform: scale(1.05);
+}

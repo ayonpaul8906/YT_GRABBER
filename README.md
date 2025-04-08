@@ -26,25 +26,6 @@ pip install -r requirements.txt
 
 
 
----
-
-## 🧑‍💻 Usage
-
-```bash
-python yt_grabber.py
-
-```
-
-Follow the on-screen instructions to:
-
-Paste a YouTube video URL
-
-Choose download type (video/audio)
-
-Select resolution/quality
-
-Download and enjoy!
-
 vbnet
 Copy
 Edit

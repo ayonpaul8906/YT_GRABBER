@@ -49,3 +49,10 @@ vbnet
 Copy
 Edit
 
+YT_GRABBER/
+│
+├── yt_grabber.py          # Main script
+├── requirements.txt       # Dependencies
+└── README.md              # Project documentation
+
+

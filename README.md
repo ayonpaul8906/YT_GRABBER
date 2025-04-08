@@ -22,3 +22,10 @@ YT_GRABBER is a simple and efficient tool for downloading and grabbing data from
 git clone https://github.com/ayonpaul8906/YT_GRABBER.git
 cd YT_GRABBER
 pip install -r requirements.txt
+
+---
+
+## 🧑‍💻 Usage
+
+```bash
+python yt_grabber.py

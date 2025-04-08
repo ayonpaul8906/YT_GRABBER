@@ -22,6 +22,9 @@ YT_GRABBER is a simple and efficient tool for downloading and grabbing data from
 git clone https://github.com/ayonpaul8906/YT_GRABBER.git
 cd YT_GRABBER
 pip install -r requirements.txt
+```
+
+
 
 ---
 
@@ -29,3 +32,20 @@ pip install -r requirements.txt
 
 ```bash
 python yt_grabber.py
+
+```
+
+Follow the on-screen instructions to:
+
+Paste a YouTube video URL
+
+Choose download type (video/audio)
+
+Select resolution/quality
+
+Download and enjoy!
+
+vbnet
+Copy
+Edit
+

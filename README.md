@@ -55,4 +55,19 @@ YT_GRABBER/
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
 
+---
+
+## 📸 Screenshot
+
+> _(You can add a screenshot or a terminal output GIF here)_
+
+---
+
+## 🔄 Future Improvements
+
+- [ ] Playlist & channel support  
+- [ ] GUI interface using Tkinter or PyQt  
+- [ ] Download progress bar  
+- [ ] Format conversion (e.g., MP4 to MP3)
+
 

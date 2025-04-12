@@ -40,6 +40,14 @@ Experience YT_GRABBER through its intuitive web application:
 
 ---
 
+## 🖼️ Screenshots
+
+### 🔹 Home Page
+![Home Page](https://github.com/user-attachments/assets/775419f5-2914-4ed6-8870-6a3656567fc9)
+
+### 🔹 Mobile Responsive View
+![Mobile View](https://github.com/user-attachments/assets/4820078e-f8d9-44f2-80d9-cab222f87e70)
+
 ## 📦 Installation (CLI Version)
 
 To use the command-line interface locally:

@@ -56,3 +56,16 @@ pip install -r requirements.txt
 - Enhanced Format Support
 - User Preferences & Authentication (for saved history)
 - UI Enhancements and Dark Mode (for the web version)
+
+## 🤝 Contributing
+
+Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
+
+- Report bugs or issues.
+- Suggest new features or improvements.
+
+## 🔗 Connect with Me
+
+- [GitHub](https://github.com/ayonpaul8906)
+- [LinkedIn](https://www.linkedin.com/in/ayon2407s/)
+- Email : ayonpaul8906@gmail.com

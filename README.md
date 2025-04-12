@@ -48,3 +48,11 @@ To use the command-line interface locally:
 git clone https://github.com/ayonpaul8906/YT_GRABBER.git
 cd YT_GRABBER
 pip install -r requirements.txt
+```
+
+# 🧩 Future Enhancements
+- Playlist and Channel Support
+- Download History
+- Enhanced Format Support
+- User Preferences & Authentication (for saved history)
+- UI Enhancements and Dark Mode (for the web version)

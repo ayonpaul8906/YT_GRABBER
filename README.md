@@ -42,11 +42,16 @@ Experience YT_GRABBER through its intuitive web application:
 
 ## 🖼️ Screenshots
 
-### 🔹 Home Page
-![Home Page](https://github.com/user-attachments/assets/775419f5-2914-4ed6-8870-6a3656567fc9)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/775419f5-2914-4ed6-8870-6a3656567fc9" alt="Home Page" width="300" height="300" style="margin-right: 100px;"/>
+  <img src="https://github.com/user-attachments/assets/4820078e-f8d9-44f2-80d9-cab222f87e70" alt="Mobile View" width="300" height="400"/>
+</div>
 
-### 🔹 Mobile Responsive View
-![Mobile View](https://github.com/user-attachments/assets/4820078e-f8d9-44f2-80d9-cab222f87e70)
+<div align="center">
+  <strong>🔹 Home Page</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>🔹 Mobile View</strong>
+</div>
+
 
 ## 📦 Installation (CLI Version)
 

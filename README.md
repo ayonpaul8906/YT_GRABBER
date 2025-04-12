@@ -1,27 +1,50 @@
 # 🎥 YT_GRABBER
 
-YT_GRABBER is a simple and efficient tool for downloading and grabbing data from YouTube videos. Whether you're trying to fetch metadata, thumbnails, or download videos, this project streamlines the process using Python and powerful libraries.
+**YT_GRABBER** is a versatile Python-based tool designed to simplify downloading and extracting data from YouTube videos. Whether you prefer using a command-line interface or a web browser, YT_GRABBER provides an efficient solution for fetching video metadata, downloading content, and more.
+
+---
 
 ## 🚀 Features
 
-- 🔍 Fetch YouTube video details (title, views, duration, etc.)
-- 📥 Download videos or audio in selected formats
-- 🖼️ Extract video thumbnails
-- ✅ Simple and lightweight CLI interface
-- 💡 Easy to extend for playlist or channel support
+- 🔍 **Fetch Video Metadata**: Retrieve details like title, views, duration, and publish date.
+- 📥 **Download Videos or Audio**: Choose from various formats and resolutions for both video and audio.
+- 🖼️ **Extract Thumbnails**: Obtain high-quality thumbnail images from videos.
+- ✅ **User-Friendly Interfaces**: Access via a simple CLI or a clean web interface.
+- 💡 **Extensible Design**: Easily adaptable for playlist or channel support.
+
+---
+
+## 🌐 Web Interface
+
+Experience YT_GRABBER through its intuitive web application:
+
+🔗 [https://yt-grabber.onrender.com/](https://yt-grabber.onrender.com/)
+
+### Web App Features
+
+- **Quick Downloads**: Paste a YouTube URL and download videos in seconds.
+- **High-Quality Output**: Supports downloading in various resolutions and formats.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **No Installation Required**: Access directly through your browser without any setup.
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Python 3**
-- [`pytube`](https://github.com/pytube/pytube) - Lightweight library for YouTube video downloading
-- Standard Python libraries
+- **Backend**: Python 3
+  - [`pytube`](https://github.com/pytube/pytube): Lightweight library for YouTube video downloading.
+  - Standard Python libraries for handling requests and processing data.
+- **Frontend**: HTML, CSS, JavaScript
+  - Responsive and clean interface for ease of use.
+- **Deployment**: Hosted on [Render](https://render.com/)
 
-## 📦 Installation
+---
+
+## 📦 Installation (CLI Version)
+
+To use the command-line interface locally:
 
 ```bash
 git clone https://github.com/ayonpaul8906/YT_GRABBER.git
 cd YT_GRABBER
 pip install -r requirements.txt
-```
-
-
